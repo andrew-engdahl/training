@@ -7,3 +7,5 @@ jQuery('document').ready(function($){
 	type: 'sequence',
 	containerheight: '3.5em'});
 });
+
+// Comment added in the second commit
